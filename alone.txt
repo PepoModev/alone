@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Home alone 5
+=======
+Home alone 1
+>>>>>>> main
